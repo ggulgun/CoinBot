@@ -2,8 +2,10 @@
 This is a simple bot which parses cryptocurrency prices from turkish traders. It is based on errbot. 
 
 # CoinBot Plugins
-!bitcoin - /bitcoin - Bitcoin prices at TR local cryptocurrency traders
-!ethereum - /ethereum - Ethereum prices at TR local cryptocurrency traders
+
+1-) !bitcoin - /bitcoin - Bitcoin prices at TR local cryptocurrency traders
+
+2-) !ethereum - /ethereum - Ethereum prices at TR local cryptocurrency traders
 
 
 # Setup steps
