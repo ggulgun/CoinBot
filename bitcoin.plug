@@ -1,0 +1,9 @@
+[Core]
+Name = bitcoin
+Module = bitcoin
+
+[Documentation]
+Description = This is a simple plugin which parses bitcoin prices in Turkish Cryptocurreny traders.
+
+[Python]
+Version = 2+

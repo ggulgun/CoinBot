@@ -1,0 +1,9 @@
+[Core]
+Name = ethereum
+Module = ethereum
+
+[Documentation]
+Description = This is a simple plugin which parses ethereum prices in Turkish Cryptocurreny traders.
+
+[Python]
+Version = 2+
